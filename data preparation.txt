@@ -1,0 +1,7 @@
+Data Preparation:
+eien Zeiel sit warscheinlich verrutscht
+Zeilen auf richtige Arten von Zahlen untersuchen, Zahlen Strings usw.
+Richtige Datenwerte
+overall quality/ overall condition zwischen einschließlich 1 und 10
+andere Datenwerte sind Bestandteil ihrer vorgegebenen Werte
+Jahre im richitgen Datenformat. 4 ziffern
